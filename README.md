@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Candy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandyVelazco100&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandyVelazco100&layout=compact)](https://github.com/CandyVelazco100/github-readme-stats)
+[![Candy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CandyVelazco100&theme=tokyonight)](https://github.com/CandyVelazco100/github-readme-stats)
 
 <!--
 **CandyVelazco100/CandyVelazco100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
