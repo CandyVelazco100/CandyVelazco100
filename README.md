@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandyVelazco100&layout=compact)](https://github.com/CandyVelazco100/github-readme-stats)
 
 [![Candy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CandyVelazco100)](https://github.com/CandyVelazco100/github-readme-stats)
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,html,css)](https://skills.thijs.gg)
+
 <!--
 **CandyVelazco100/CandyVelazco100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
