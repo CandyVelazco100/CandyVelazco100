@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Candy</h1>
 <h3 align="center">Programmer 👨‍💻 | Systems engineering Student 🎓 | Mexican 🇲🇽</h3>
 
