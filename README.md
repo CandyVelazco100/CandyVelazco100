@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Candy</h1>
 <h3 align="center">Programmer 👨‍💻 | Systems engineering Student 🎓 | Mexican 🇲🇽</h3>
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=candyvelazco100&icon=9&color=10" alt="candyvelazco100" /> </p>
-
 - 🌱 I’m currently learning **Framework, courses, Front-end, Back-end.**
 
 - 📫 How to reach me **nohemivelazco3@gmail.com**
