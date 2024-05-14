@@ -36,11 +36,16 @@ I create blog posts and open source packages mainly about web development and fr
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candyvelazco100&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="candyvelazco100" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=candyvelazco100&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="candyvelazco100" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candyvelazco100&theme=tokyonight&hide_border=true" alt="candyvelazco100" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=candyvelazco100&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=candyvelazco100&theme=tokyonight" height="180em" /> </p>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=candyvelazco100&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
+
+### ⚡Activity Graph:
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=candyvelazco100&theme=tokyo-night"/>
 
 ### ✍️ Random Dev Quote: 
 <p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="candyvelazco100" /></p>
