@@ -18,7 +18,7 @@
 </p>
 
 ### Hey there 👋, 
-Hello! I'm Candy, a systems engineer specializing in web and mobile development, particularly in front-end technologies. I have a relentless drive for continuous improvement and a deep-seated passion for learning new things. I believe firmly in the power of technology and determination to solve everyday problems.
+Hello! I'm Candy, a systems engineer specializing in web and mobile development, particularly in front-end technologies. I also have experience in software analysis and documentation. I have a relentless drive for continuous improvement and a deep-seated passion for learning new things.
 
 <h3 align="left"> 🏆 GitHub Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=candyvelazco100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="candyvelazco100" /></a> </p>
