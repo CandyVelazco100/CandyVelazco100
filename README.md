@@ -6,6 +6,14 @@
 - 🤔 I’m looking for help with **Python, C, C#, C++, Web Design**
 
 - 📫 How to reach me **nohemivelazco3@gmail.com**
+  
+- [📏]  - Web Design
+  
+- [👨🏻‍💻] - Web Apps Development
+  
+- [💻] - Digital Marketing
+  
+- [👨🏻‍💻] - Software Development 
 
 ### Connect with me:
 <p align="left">
